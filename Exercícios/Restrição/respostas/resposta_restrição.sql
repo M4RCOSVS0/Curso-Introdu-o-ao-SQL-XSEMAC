@@ -72,3 +72,6 @@ CREATE TABLE Produtos (
     CategoriaID INT,
     CONSTRAINT FK_Categoria FOREIGN KEY (CategoriaID) REFERENCES Categorias(CategoriaID)
 );
+
+
+--teste

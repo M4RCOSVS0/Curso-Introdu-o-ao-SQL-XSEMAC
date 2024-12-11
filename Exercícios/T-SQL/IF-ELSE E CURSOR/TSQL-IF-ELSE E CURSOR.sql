@@ -46,3 +46,5 @@ VALUES
 (1, 'Celular', 1500.00),
 (2, 'Notebook', 3500.00),
 (3, 'Tablet', 1200.00);
+
+--teste

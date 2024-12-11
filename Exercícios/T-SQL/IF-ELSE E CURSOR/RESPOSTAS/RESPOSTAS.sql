@@ -117,3 +117,6 @@ DEALLOCATE ProdutoCursor;
 
 -- Exibindo o total final
 PRINT 'O total dos preços dos produtos é: ' + CAST(@Total AS VARCHAR);
+
+
+--teste
